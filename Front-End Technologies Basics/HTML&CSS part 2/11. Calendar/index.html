@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        body{
+            padding: 2em;
+        }
+        
+        .container{
+            display: flex;
+            max-width: 65vw;
+        }
+
+        section{
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        span:first-child{
+            flex: 1 0 100%;
+        }
+
+        span:nth-child(7){
+            flex: 1 0 100%;
+        }
+
+        span{
+            flex-wrap: wrap;
+            border: solid 1px #666;
+            display: block;
+            flex-grow: 1;
+            text-align: center;
+            padding: 1em 1em 5em 1em;
+        }
+       
+    </style>
+</head>
+<body>
+    <div class="container">
+        <section class="week">
+            <span>Workweek</span>
+            <span>1 Monday</span>
+            <span>2 Tuesday</span>
+            <span>3 Wednesday</span>
+            <span>4 Thursday</span>
+            <span>5 Friday</span>
+            <span>Weekend</span>
+            <span>6 Saturday</span>
+            <span>7 Sunday</span>
+        </section>
+        <section class="notes">
+            <span>REMINDERS</span>
+            <span>SPECIAL DATES</span>
+        </section>
+    </div>
+    
+</body>
+</html>

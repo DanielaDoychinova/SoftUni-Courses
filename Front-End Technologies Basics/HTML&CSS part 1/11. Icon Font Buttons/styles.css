@@ -1,0 +1,41 @@
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';
+
+html {
+    font: 18px/3 Arial, serif;
+}
+
+body {
+    font: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5.4px;
+    padding: 12.6px 27px;
+}
+
+a:hover {
+    color: #eee;
+}
+
+i {
+    padding-right: 5.4px;
+    color: red;
+}
+
+i:hover {
+    color: rgb(56, 82, 82);
+}
+
+.green {
+    background-color: green;
+}
+
+.green i:hover {
+    color: turquoise;
+}
+
+.orange {
+    background-color: orange;
+}

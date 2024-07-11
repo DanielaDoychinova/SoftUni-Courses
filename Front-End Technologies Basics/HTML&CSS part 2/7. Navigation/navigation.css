@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font: 16px/1.5 Helvetica, sans-serif;
+}
+
+body {
+    margin: 1em;
+    padding: 4em;
+    background-color: rgb(238, 238, 238);
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    margin-top: 1.2em;
+    font-size: 0.9em;
+    line-height: 1.4;
+}
+
+main {
+    width: 70%;
+}
+
+article {
+    margin-top: 1.2em;
+    padding: 1em 0;
+}
+
+aside {
+    position: absolute;
+    padding: 2em 4em;
+}
+
+main, aside {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #090;
+}
+
+img {
+    padding: 0.5em;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(45, 45, 45);
+    box-shadow: 0 0 1em 0.2em rgb(0, 0, 0, 0.3);
+}
+
+.first-image {
+    margin: 0em 1em 1em 1em;
+    float: right;
+}
+
+.second-image {
+    margin: 0em 1em 1em 1em;
+    float: left;
+}
+
+.main-header {
+    display: block;
+    position: relative;
+    border-bottom: 3px solid rgb(87, 85, 85);
+}
+
+header .site-title a {
+    color: #000;
+    text-decoration: none;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+header .site-title, header nav {
+    display: inline-block;
+}
+
+header nav ul {
+    position: absolute;
+    top: 1.2em;
+    right: 0.5em;
+}
+
+header nav ul li {
+    display: inline;
+    padding: 0.5em;
+}
+
+aside nav ul {
+    padding: 1em 2em;
+}
+
+aside nav ul li {
+    padding: 0.2em 0;
+}
+
+header nav a {
+    padding: 0.2em 1em;
+}
+
+.mini-article {
+    margin: 1em 1em;
+    padding-left: 1em;
+    border-left: 3px solid rgb(137, 134, 134);
+    color: #827d7d;
+    font-style: italic;
+    width: 45%;
+    height: auto;
+    float: right;
+}
+
+.mini-article p:first-child {
+    margin-top: 0;
+}
+
+.mini-article p:nth-child(2) {
+    text-align: right;
+
+}
+
+header nav a:hover {
+    background-color: rgb(100, 184, 100);
+    color: white;
+}

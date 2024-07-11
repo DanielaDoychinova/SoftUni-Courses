@@ -1,0 +1,41 @@
+html{
+    padding: 4em;
+    font: 16px/1.5 Helvetica, sans-serif;
+}
+
+header{
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+header, .site-title, nav, ul, li, a{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+    text-align: center;
+    display: inline;
+    padding: 1em 1em;
+}
+
+li a:hover{
+    background-color: green;
+    color: antiquewhite;
+    cursor: pointer;
+}
+
+a.site-title{
+    color: black;
+    font-size: 3em;
+    font-weight: bold;
+    width: 500px;
+    text-align: left;
+}
+
+h1{
+    font-family: serif;
+}

@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+h3 {
+    font-family: Georgia, serif;
+    font-size: 1.4em;
+    font-weight: 700;
+    padding-bottom: 1em;
+}
+
+div:nth-child(2) {
+    height: 200px;
+    padding: 2em;
+    background-color: rgb(255, 255, 255);
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    min-width: 25%;
+    border-radius: 1em;
+    overflow: hidden;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 1em 0.5em rgb(0, 0, 0, 0.3);
+    border: 1px solid #CCC;
+}
+
+.card a {
+    text-decoration: none;
+    color: white;
+}
+
+.card button {
+    background-color: rgb(0, 153, 0);
+    border: 2px solid #1e291e;
+    border-radius: 0.5em;
+    padding: 0.5em 1em;
+    position: absolute;
+    bottom: 2em;
+    right: 2em;
+    cursor: pointer;
+}
+
+.card button:hover a {
+    color: #1e291e;
+}
+
+.card button:hover {
+    background-color: rgb(167, 222, 167);
+}
+
+
+
