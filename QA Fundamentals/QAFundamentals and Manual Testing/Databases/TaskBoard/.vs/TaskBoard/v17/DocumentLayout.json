@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Others\\QA Fundamentals\\QA Manual Testing\\Databases\\TaskBoard\\TaskBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC759849-6C9C-4CF7-94B0-40C679137CCC}|TaskBoard.WebApp\\TaskBoard.WebApp.csproj|c:\\others\\qa fundamentals\\qa manual testing\\databases\\taskboard\\taskboard\\taskboard.webapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC759849-6C9C-4CF7-94B0-40C679137CCC}|TaskBoard.WebApp\\TaskBoard.WebApp.csproj|solutionrelative:taskboard.webapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC759849-6C9C-4CF7-94B0-40C679137CCC}|TaskBoard.WebApp\\TaskBoard.WebApp.csproj|c:\\others\\qa fundamentals\\qa manual testing\\databases\\taskboard\\taskboard\\taskboard.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC759849-6C9C-4CF7-94B0-40C679137CCC}|TaskBoard.WebApp\\TaskBoard.WebApp.csproj|solutionrelative:taskboard.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Others\\QA Fundamentals\\QA Manual Testing\\Databases\\TaskBoard\\TaskBoard\\TaskBoard.WebApp\\Startup.cs",
+              "RelativeDocumentMoniker": "TaskBoard.WebApp\\Startup.cs",
+              "ToolTip": "C:\\Others\\QA Fundamentals\\QA Manual Testing\\Databases\\TaskBoard\\TaskBoard\\TaskBoard.WebApp\\Startup.cs",
+              "RelativeToolTip": "TaskBoard.WebApp\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:59:50.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Others\\QA Fundamentals\\QA Manual Testing\\Databases\\TaskBoard\\TaskBoard\\TaskBoard.WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskBoard.WebApp\\appsettings.json",
+              "ToolTip": "C:\\Others\\QA Fundamentals\\QA Manual Testing\\Databases\\TaskBoard\\TaskBoard\\TaskBoard.WebApp\\appsettings.json",
+              "RelativeToolTip": "TaskBoard.WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T16:59:35.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
