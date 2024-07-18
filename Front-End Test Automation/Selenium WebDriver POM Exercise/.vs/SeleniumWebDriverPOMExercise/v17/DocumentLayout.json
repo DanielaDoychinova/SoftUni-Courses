@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\7. Selenium WebDriver POM EXERCISE\\SeleniumWebDriverPOMExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97424784-C464-48FB-B85B-8712D60CC819}|SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise.csproj|c:\\users\\daniela\\desktop\\front-end test automation\\front-end test automation\\7. selenium webdriver pom exercise\\seleniumwebdriverpomexercise\\seleniumwebdriverpomexercise\\tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97424784-C464-48FB-B85B-8712D60CC819}|SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise.csproj|solutionrelative:seleniumwebdriverpomexercise\\tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97424784-C464-48FB-B85B-8712D60CC819}|SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise.csproj|c:\\users\\daniela\\desktop\\front-end test automation\\front-end test automation\\7. selenium webdriver pom exercise\\seleniumwebdriverpomexercise\\seleniumwebdriverpomexercise\\tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97424784-C464-48FB-B85B-8712D60CC819}|SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise.csproj|solutionrelative:seleniumwebdriverpomexercise\\tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97424784-C464-48FB-B85B-8712D60CC819}|SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise.csproj|c:\\users\\daniela\\desktop\\front-end test automation\\front-end test automation\\7. selenium webdriver pom exercise\\seleniumwebdriverpomexercise\\seleniumwebdriverpomexercise\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97424784-C464-48FB-B85B-8712D60CC819}|SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise.csproj|solutionrelative:seleniumwebdriverpomexercise\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97424784-C464-48FB-B85B-8712D60CC819}|SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise.csproj|c:\\users\\daniela\\desktop\\front-end test automation\\front-end test automation\\7. selenium webdriver pom exercise\\seleniumwebdriverpomexercise\\seleniumwebdriverpomexercise\\tests\\hiddenmenutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97424784-C464-48FB-B85B-8712D60CC819}|SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise.csproj|solutionrelative:seleniumwebdriverpomexercise\\tests\\hiddenmenutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartTests.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\7. Selenium WebDriver POM EXERCISE\\SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise\\Tests\\CartTests.cs",
+              "RelativeDocumentMoniker": "SeleniumWebDriverPOMExercise\\Tests\\CartTests.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\7. Selenium WebDriver POM EXERCISE\\SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise\\Tests\\CartTests.cs",
+              "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Tests\\CartTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:36:56.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutPage.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\7. Selenium WebDriver POM EXERCISE\\SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise\\Pages\\CheckoutPage.cs",
+              "RelativeDocumentMoniker": "SeleniumWebDriverPOMExercise\\Pages\\CheckoutPage.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\7. Selenium WebDriver POM EXERCISE\\SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise\\Pages\\CheckoutPage.cs",
+              "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Pages\\CheckoutPage.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:32:46.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckoutTests.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\7. Selenium WebDriver POM EXERCISE\\SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise\\Tests\\CheckoutTests.cs",
+              "RelativeDocumentMoniker": "SeleniumWebDriverPOMExercise\\Tests\\CheckoutTests.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\7. Selenium WebDriver POM EXERCISE\\SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise\\Tests\\CheckoutTests.cs",
+              "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Tests\\CheckoutTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:09:47.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HiddenMenuTests.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\7. Selenium WebDriver POM EXERCISE\\SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise\\Tests\\HiddenMenuTests.cs",
+              "RelativeDocumentMoniker": "SeleniumWebDriverPOMExercise\\Tests\\HiddenMenuTests.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\7. Selenium WebDriver POM EXERCISE\\SeleniumWebDriverPOMExercise\\SeleniumWebDriverPOMExercise\\Tests\\HiddenMenuTests.cs",
+              "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Tests\\HiddenMenuTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:57:56.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
