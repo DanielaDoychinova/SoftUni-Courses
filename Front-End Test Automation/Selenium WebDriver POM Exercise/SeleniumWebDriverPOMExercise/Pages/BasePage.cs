@@ -13,7 +13,6 @@ namespace SeleniumWebDriverPOMExercise.Pages
 
         protected WebDriverWait wait;
 
-        public virtual string PageUrl { get; }
         public BasePage(IWebDriver driver)
         {
             this.driver = driver;
