@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|c:\\users\\daniela\\desktop\\front-end test automation\\front-end test automation\\14. ep i - ideacenter\\examprepideacenter\\examprepideacenter\\tests\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|solutionrelative:examprepideacenter\\tests\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|c:\\users\\daniela\\desktop\\front-end test automation\\front-end test automation\\14. ep i - ideacenter\\examprepideacenter\\examprepideacenter\\pages\\editideapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|solutionrelative:examprepideacenter\\pages\\editideapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|c:\\users\\daniela\\desktop\\front-end test automation\\front-end test automation\\14. ep i - ideacenter\\examprepideacenter\\examprepideacenter\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|solutionrelative:examprepideacenter\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|c:\\users\\daniela\\desktop\\front-end test automation\\front-end test automation\\14. ep i - ideacenter\\examprepideacenter\\examprepideacenter\\pages\\createideapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|solutionrelative:examprepideacenter\\pages\\createideapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|c:\\users\\daniela\\desktop\\front-end test automation\\front-end test automation\\14. ep i - ideacenter\\examprepideacenter\\examprepideacenter\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|solutionrelative:examprepideacenter\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|c:\\users\\daniela\\desktop\\front-end test automation\\front-end test automation\\14. ep i - ideacenter\\examprepideacenter\\examprepideacenter\\pages\\myideaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6AF66B-6E94-45D4-8411-EBA36816E167}|ExamPrepIdeaCenter\\ExamPrepIdeaCenter.csproj|solutionrelative:examprepideacenter\\pages\\myideaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditIdeaPage.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Pages\\EditIdeaPage.cs",
+              "RelativeDocumentMoniker": "ExamPrepIdeaCenter\\Pages\\EditIdeaPage.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Pages\\EditIdeaPage.cs",
+              "RelativeToolTip": "ExamPrepIdeaCenter\\Pages\\EditIdeaPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:08:47.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyIdeasPage.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Pages\\MyIdeasPage.cs",
+              "RelativeDocumentMoniker": "ExamPrepIdeaCenter\\Pages\\MyIdeasPage.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Pages\\MyIdeasPage.cs",
+              "RelativeToolTip": "ExamPrepIdeaCenter\\Pages\\MyIdeasPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:38:21.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdeaCenterTests.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Tests\\IdeaCenterTests.cs",
+              "RelativeDocumentMoniker": "ExamPrepIdeaCenter\\Tests\\IdeaCenterTests.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Tests\\IdeaCenterTests.cs",
+              "RelativeToolTip": "ExamPrepIdeaCenter\\Tests\\IdeaCenterTests.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAApwE4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:44:51.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "ExamPrepIdeaCenter\\Tests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "ExamPrepIdeaCenter\\Tests\\BaseTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAjwCQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:37:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "ExamPrepIdeaCenter\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Pages\\BasePage.cs",
+              "RelativeToolTip": "ExamPrepIdeaCenter\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:54:28.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "0d142ecc-3f56-40be-8d28-17e3ea2f6b84",
+        "Display": 0,
+        "X": 223,
+        "Y": 110,
+        "Width": 374,
+        "Height": 670,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateIdeaPage.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Pages\\CreateIdeaPage.cs",
+              "RelativeDocumentMoniker": "ExamPrepIdeaCenter\\Pages\\CreateIdeaPage.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Desktop\\Front-End Test Automation\\Front-End Test Automation\\14. EP I - IdeaCenter\\ExamPrepIdeaCenter\\ExamPrepIdeaCenter\\Pages\\CreateIdeaPage.cs",
+              "RelativeToolTip": "ExamPrepIdeaCenter\\Pages\\CreateIdeaPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:55:19.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
