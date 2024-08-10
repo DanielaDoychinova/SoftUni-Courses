@@ -91,10 +91,10 @@ namespace RevueCrafterExamPrem
             createBtn.Click();
 
             var currentUrl = driver.Url;
-            var revues = driver.FindElements(By.XPath("//div[@class='col-md-4']"));
-            var lastRevueTitle = revues.Last().FindElement(By.XPath("//div[@class='text-muted text-center']")).Text;
-
             Assert.That(currentUrl, Is.EqualTo($"{BaseUrl}Revue/MyRevues#createRevue"), "Url is not as expected.");
+
+            var revues = driver.FindElements(By.XPath("//div[@class='col-md-4']"));
+            var lastRevueTitle = revues.Last().FindElement(By.CssSelector(".text-muted")).Text;
             Assert.That(lastRevueTitle, Is.EqualTo(lastCreatedRevueTitle), "Title is not as expected.");
 
         }
