@@ -8,3 +8,5 @@
 - Front-End Test Automation:
    - Front-End Technologies Basics;
    - Front-End Test Automation;
+- Back-End Test Automation:
+   - Back-End Technologies Basics;
