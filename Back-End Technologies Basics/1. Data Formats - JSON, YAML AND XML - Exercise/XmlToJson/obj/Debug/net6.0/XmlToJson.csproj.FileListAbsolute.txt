@@ -1,0 +1,16 @@
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\bin\Debug\net6.0\XmlToJson.exe
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\bin\Debug\net6.0\Datasets\Devices.xml
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\bin\Debug\net6.0\Datasets\Vehicles.xml
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\bin\Debug\net6.0\XmlToJson.deps.json
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\bin\Debug\net6.0\XmlToJson.runtimeconfig.json
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\bin\Debug\net6.0\XmlToJson.dll
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\bin\Debug\net6.0\XmlToJson.pdb
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfoInputs.cache
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfo.cs
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.dll
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\obj\Debug\net6.0\refint\XmlToJson.dll
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.pdb
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.genruntimeconfig.cache
+C:\Users\Daniela\Documents\Back-End Test Automation\Back-End Technologies Basics\1. Data Formats - JSON, YAML AND XML - Exercise\XmlToJson\obj\Debug\net6.0\ref\XmlToJson.dll
