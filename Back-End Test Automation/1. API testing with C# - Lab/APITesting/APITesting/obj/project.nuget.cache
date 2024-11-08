@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JeERTmekMtdXxJ1jhrPsGGIpszNYIII/u5+bwBm+xo1hF542cd+YxnXNebN2jyDhHkzONp/kFSPEwL/trJCwpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\1. API testing with C#\\APITesting\\APITesting\\SerializeAndDeserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniela\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Daniela\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

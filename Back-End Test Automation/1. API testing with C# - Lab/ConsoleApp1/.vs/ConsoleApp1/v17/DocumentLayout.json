@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\1. API testing with C#\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3AB0ED-6E55-4AAA-9C7E-3472BF9A9713}|NUnitTests\\NUnitTests.csproj|c:\\users\\daniela\\documents\\back-end test automation\\back-end test automation\\1. api testing with c#\\consoleapp1\\nunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3AB0ED-6E55-4AAA-9C7E-3472BF9A9713}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA15C38-DC71-4215-BFC2-1F318B7ADC56}|ConsoleApp1\\HTTPRequests.csproj|c:\\users\\daniela\\documents\\back-end test automation\\back-end test automation\\1. api testing with c#\\consoleapp1\\consoleapp1\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA15C38-DC71-4215-BFC2-1F318B7ADC56}|ConsoleApp1\\HTTPRequests.csproj|solutionrelative:consoleapp1\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA15C38-DC71-4215-BFC2-1F318B7ADC56}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\daniela\\documents\\back-end test automation\\back-end test automation\\1. api testing with c#\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA15C38-DC71-4215-BFC2-1F318B7ADC56}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\1. API testing with C#\\ConsoleApp1\\NUnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\1. API testing with C#\\ConsoleApp1\\NUnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "NUnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:32:25.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\1. API testing with C#\\ConsoleApp1\\ConsoleApp1\\Repo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Repo.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\1. API testing with C#\\ConsoleApp1\\ConsoleApp1\\Repo.cs",
+              "RelativeToolTip": "ConsoleApp1\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:44:18.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\1. API testing with C#\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\1. API testing with C#\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwDQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:23:26.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
