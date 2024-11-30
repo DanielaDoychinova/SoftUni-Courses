@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\New folder\\API Testing Workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C225-01C7-4371-815E-F78CCF983A6C}|API Testing Workshop\\API Testing Workshop.csproj|c:\\users\\daniela\\documents\\back-end test automation\\back-end test automation\\new folder\\api testing workshop\\api testing workshop\\globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C225-01C7-4371-815E-F78CCF983A6C}|API Testing Workshop\\API Testing Workshop.csproj|solutionrelative:api testing workshop\\globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C225-01C7-4371-815E-F78CCF983A6C}|API Testing Workshop\\API Testing Workshop.csproj|c:\\users\\daniela\\documents\\back-end test automation\\back-end test automation\\new folder\\api testing workshop\\api testing workshop\\brandapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C225-01C7-4371-815E-F78CCF983A6C}|API Testing Workshop\\API Testing Workshop.csproj|solutionrelative:api testing workshop\\brandapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C225-01C7-4371-815E-F78CCF983A6C}|API Testing Workshop\\API Testing Workshop.csproj|c:\\users\\daniela\\documents\\back-end test automation\\back-end test automation\\new folder\\api testing workshop\\api testing workshop\\couponsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C225-01C7-4371-815E-F78CCF983A6C}|API Testing Workshop\\API Testing Workshop.csproj|solutionrelative:api testing workshop\\couponsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C225-01C7-4371-815E-F78CCF983A6C}|API Testing Workshop\\API Testing Workshop.csproj|c:\\users\\daniela\\documents\\back-end test automation\\back-end test automation\\new folder\\api testing workshop\\api testing workshop\\colorapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C225-01C7-4371-815E-F78CCF983A6C}|API Testing Workshop\\API Testing Workshop.csproj|solutionrelative:api testing workshop\\colorapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\New folder\\API Testing Workshop\\API Testing Workshop\\GlobalConstants.cs",
+              "RelativeDocumentMoniker": "API Testing Workshop\\GlobalConstants.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\New folder\\API Testing Workshop\\API Testing Workshop\\GlobalConstants.cs",
+              "RelativeToolTip": "API Testing Workshop\\GlobalConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:05:25.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\New folder\\API Testing Workshop\\API Testing Workshop\\BrandApiTests.cs",
+              "RelativeDocumentMoniker": "API Testing Workshop\\BrandApiTests.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\New folder\\API Testing Workshop\\API Testing Workshop\\BrandApiTests.cs",
+              "RelativeToolTip": "API Testing Workshop\\BrandApiTests.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAowJ8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:49:52.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CouponsApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\New folder\\API Testing Workshop\\API Testing Workshop\\CouponsApiTests.cs",
+              "RelativeDocumentMoniker": "API Testing Workshop\\CouponsApiTests.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\New folder\\API Testing Workshop\\API Testing Workshop\\CouponsApiTests.cs",
+              "RelativeToolTip": "API Testing Workshop\\CouponsApiTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:30:00.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\New folder\\API Testing Workshop\\API Testing Workshop\\ColorApiTests.cs",
+              "RelativeDocumentMoniker": "API Testing Workshop\\ColorApiTests.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Documents\\Back-End Test Automation\\Back-End Test Automation\\New folder\\API Testing Workshop\\API Testing Workshop\\ColorApiTests.cs",
+              "RelativeToolTip": "API Testing Workshop\\ColorApiTests.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAowKsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:06:47.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
